@@ -1,0 +1,208 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-05-01T23:33:52.860768",
+    "startedAt": "2024-05-01T23:33:52.004642",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/bokhard/AIMS/AIE2-Midterm/app.py",
+    "codePathLocal": "app.py",
+    "codePath": "app.py",
+    "git": {
+        "remote": "git@github.com:Bokhard/AIE2-Midterm.git",
+        "commit": "66232c33414010776731edb0f39ae92cc4ccd122"
+    },
+    "email": "bokhard85@gmail.com",
+    "root": "/home/bokhard/AIMS/AIE2-Midterm",
+    "host": "GAF-4070TI",
+    "username": "bokhard",
+    "executable": "/home/bokhard/anaconda3/envs/llmops-course/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2995.1980000000003,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.198,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 38.71198654174805
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070 Ti",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 15.540977478027344
+    }
+}
